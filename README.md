@@ -7,7 +7,7 @@ This project simulates a restaurant's ordering system. It provides a user-friend
 ### ORDERING
 ![image](https://github.com/athemis89/taqueria/assets/121729165/60477f0b-9ffe-4289-8090-e20147247113)
 
-Welcome to YummyNet's ordering system! Here's how it works: You can browse the menu and select your desired items. Our program will randomly choose an out-of-stock ingredient. If any of your chosen items contain that ingredient, it'll suggest suitable alternatives. Once you finish ordering, you'll receive an order number, a recap of your order, total price, and estimated delivery time. To confirm your order, simply provide your phone number. Remember to keep your order number and phone number handy!
+Welcome to YummyNet's ordering system! Here's how it works: You can browse the menu and select your desired items. The program will randomly choose an out-of-stock ingredient. If any of your chosen items contain that ingredient, it'll suggest suitable alternatives. Once you finish ordering, you'll receive an order number, a recap of your order, total price, and estimated delivery time. To confirm your order, simply provide your phone number. Remember to keep your order number and phone number handy!
 
 ### TRACKING AN ORDER
 ![image](https://github.com/athemis89/taqueria/assets/121729165/ada1b9e3-4c3a-4c43-908a-9879650ed72b)
