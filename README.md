@@ -4,8 +4,16 @@ This project simulates a restaurant's ordering system. It provides a user-friend
 
 ## HOW IT WORKS IN PRACTICE:
 
-![image](https://github.com/athemis89/taqueria/assets/121729165/b05b13b9-d332-42cb-a3d3-84920a15112f)
+### ORDERING
+![image](https://github.com/athemis89/taqueria/assets/121729165/60477f0b-9ffe-4289-8090-e20147247113)
 
+### TRACKING AN ORDER
+![image](https://github.com/athemis89/taqueria/assets/121729165/ada1b9e3-4c3a-4c43-908a-9879650ed72b)
+
+### FILES
+![image](https://github.com/athemis89/taqueria/assets/121729165/97b565db-122a-468d-b6be-2c1ce4b3675d)
+![image](https://github.com/athemis89/taqueria/assets/121729165/4cab4579-f2cb-41f2-ab01-30e01f0db6fc)
+![image](https://github.com/athemis89/taqueria/assets/121729165/5af6a584-aaff-45d5-ad60-5c11e2c49ce2)
 
 
 ## HOW THE CODE WORKS
