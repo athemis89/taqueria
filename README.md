@@ -12,6 +12,8 @@ Welcome to YummyNet's ordering system! Here's how it works: You can browse the m
 ### TRACKING AN ORDER
 ![image](https://github.com/athemis89/taqueria/assets/121729165/ada1b9e3-4c3a-4c43-908a-9879650ed72b)
 
+You can track your order and obtain a duplicate receipt by providing your order number and phone number.
+
 ### FILES
 ![image](https://github.com/athemis89/taqueria/assets/121729165/97b565db-122a-468d-b6be-2c1ce4b3675d) <br />
 ![image](https://github.com/athemis89/taqueria/assets/121729165/4cab4579-f2cb-41f2-ab01-30e01f0db6fc)
