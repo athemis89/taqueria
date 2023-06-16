@@ -19,6 +19,8 @@ You can track your order and obtain a duplicate receipt by providing your order 
 ![image](https://github.com/athemis89/taqueria/assets/121729165/4cab4579-f2cb-41f2-ab01-30e01f0db6fc)
 ![image](https://github.com/athemis89/taqueria/assets/121729165/5af6a584-aaff-45d5-ad60-5c11e2c49ce2)
 
+In addition to the order tracking and duplicate receipt functionality, the program generates a detailed receipt in a text file for your reference. Furthermore, it creates two separate files for tracking purposes: one to store previously used order numbers and another to maintain a comprehensive order history. 
+
 
 ## HOW THE CODE WORKS
 
