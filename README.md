@@ -14,16 +14,16 @@ This project simulates a restaurant's ordering system. It provides a user-friend
 
 ![Screenshot 2023-06-16 at 14 53 59](https://github.com/athemis89/taqueria/assets/121729165/9bf441fb-0d97-431a-9fa8-e5327e4440ff)
 
-The code defines two dictionaries: menu and sides. 
-These dictionaries represent the available food items on the menu and their respective prices and ingredients.
+The code defines two dictionaries: menu and sides. <br />
+These dictionaries represent the available food items on the menu and their respective prices and ingredients.<br />
 
 **main() function**
 
 ![image](https://github.com/athemis89/taqueria/assets/121729165/435f5136-c23b-44f2-b862-be7138863294)
 
-The main() function serves as the entry point of the program. 
-It prompts the user to select an option: "New Order" or "Track Order." 
-Based on the user's input, it calls the corresponding functions: new_order() or track_order().
+The main() function serves as the entry point of the program. <br />
+It prompts the user to select an option: "New Order" or "Track Order." <br />
+Based on the user's input, it calls the corresponding functions: new_order() or track_order().<br />
 
 **welcome() funtion**
 
